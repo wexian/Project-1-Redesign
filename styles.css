@@ -10,3 +10,13 @@ body {
     margin: 0;
     padding: 0;
 }
+
+.navbar-toggler {
+    border: none;
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+    box-shadow: none;
+}
